@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Enzo Ariel Sánchez!
 
-- 🌱 I’m currently learning at UTN (National Technologic University of Argentina).
+- 🌱 I’m currently learning at UTN (National Technological University of Argentina).
 - 💻 I'm into Mobile and game development (Flutter and Godot Engine).
 - 🎨 I also have some experience in art and animation.
 - 🐧 I love trying FOSS software like GTK Apps. BTW I use Debian.
